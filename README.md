@@ -3,7 +3,7 @@
 # Índice 
 
 * [Descrição da atividade](#Descrição-da-atividade)
-* [O que fazer?](#O-que-fazer?)
+* [Como Fazer](#Como-Fazer)
 * [Perguntas](#Perguntas)
 * [Protótipo do Figma](#Protótipo-do-Figma)
 
@@ -14,7 +14,7 @@ Para essa atividade, vamos fazer análises, experiências e desenvolvimentos.
 Como sempre, esteja sempre atento a diferentes aspectos do seu trabalho e sempre tentando pensar com os olhos de outras pessoas... 
 O pensamento crítico é parte essencial do seu desenvolvimento. 
 
-## O que fazer?
+## Como Fazer
 
 Dentro do site Archive.org você pode encontrar diferentes sites e suas versões em anos anteriores.
 Encontre um site sobre notícias de fora do Brasil e que não fale português, com pelo menos vinte anos de existência e compare as versões de cada cinco anos respondendo as perguntas que estão abaixo. Lembre-se o propósito de um site nem sempre é claro, então sinta-se a vontade  
